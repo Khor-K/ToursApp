@@ -8,7 +8,7 @@
 	Title="HostelsPage">
 
     <Grid>
-        <Button Content="Отели" Width="175" Height="30" Click="Button_Click_1"></Button>
+        <Button Content="Отель" Width="175" Height="30" Click="Button_Click_1"></Button>
         <Button Content="Туры" Width="175" Height="30" Click="Button_Click_2" Margin="62,170,62,100"></Button>
     </Grid>
 </Page>
