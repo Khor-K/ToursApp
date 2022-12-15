@@ -13,7 +13,7 @@
             <RowDefinition Height="30"/>
         </Grid.RowDefinitions>
         <Image Source="Resources/342768-sepik.jpg" HorizontalAlignment="Left" Margin="10,0,0,0" />
-        <TextBlock Text="Header" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Text="Отель? Триваго!" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <Grid Background="#bae3e8" Panel.ZIndex="-2"/>
         <Grid Grid.Row="2" Background="#445c93" />
         <Frame Grid.Row="1" Name="MainFrame" ContentRendered="MainFrame_ContentRendered" NavigationUIVisibility="Hidden"></Frame>
